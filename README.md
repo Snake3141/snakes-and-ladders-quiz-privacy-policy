@@ -78,3 +78,8 @@ The latest version will always be available at the public URL used for the Googl
 If you have any questions about this privacy policy, you can contact the developer at:
 
 Email:cactusbullet@duck.com
+
+Sources and Attribution
+
+This app uses quiz questions from the Open Trivia Database (https://opentdb.com
+), which is licensed under CC BY-SA 4.0. The Open Trivia Database is not affiliated with or endorsing this app.
